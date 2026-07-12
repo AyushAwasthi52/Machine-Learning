@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["printoptions", "xlabel", "ylabel"]
+  "cSpell.words": [
+    "cmap",
+    "contourf",
+    "printoptions",
+    "xlabel",
+    "xlim",
+    "ylabel",
+    "ylim"
+  ]
 }
